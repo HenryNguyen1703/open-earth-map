@@ -11,3 +11,5 @@ albumentations
 opencv-python
 
 scikit-learn
+
+pytest
